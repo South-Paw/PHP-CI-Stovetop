@@ -7,7 +7,7 @@ Works out of the box. Of course, it won't do much...
 
 ### PHP Framework;
 
-* [Code Igniter](https://www.codeigniter.com/) v3.1.2
+* [Code Igniter](https://www.codeigniter.com/) v3.1.3
 
 ### Front end of application;
 
